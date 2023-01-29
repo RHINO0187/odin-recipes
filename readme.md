@@ -1,0 +1,1 @@
+This project will be a basic recipe website. I will show skills I've learned in the HTML section. I will also use Git commits to show what I've learned.
